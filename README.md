@@ -11,10 +11,5 @@ Users can also take snapshots of particular events if required. These images are
 
 
 
-## App Interface preview:
-![image](https://github.com/ARJ014/Smart_Turret/assets/98057120/f320350a-5ae3-4f6f-8a8b-2c7541d0eaf9)
-
-
-![image](https://github.com/ARJ014/Smart_Turret/assets/98057120/a815263e-704a-43b2-b8fb-e6252f631ed4)
 
 
